@@ -37,12 +37,16 @@ namespace RefactoringAufgabe
 
         public double Seitenlaenge2
         {
-            get => seitenlaenge2;
+            get => seitenlaenge3;
         }
 
         public double Seitenlaenge3
         {
             get => seitenlaenge3;
+        }
+        public double Seitenlänge2
+        {
+            get => seitenlaenge2;
         }
 
     }
